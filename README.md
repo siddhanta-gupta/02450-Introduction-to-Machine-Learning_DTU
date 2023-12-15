@@ -1,4 +1,4 @@
-#02450-Intro to ML-DTU
+# 02450-Intro to ML-DTU
 
 - Python script solutions for old exam sets with explanation
 - Old exmam sets with solutions explained in PDF
